@@ -191,8 +191,8 @@ Plus: Statsmodels (SARIMA/Holt-Winters), Plotly (chart dashboard).
 
 | Nama | Stream |
 |------|--------|
-| Brahmayudha Erlangga P. | AI |
 | Mhd Rusdi Hakim Lubis | AI |
+| Brahmayudha Erlangga P| AI |
 
 **Mentor AI:** Nanda Ringga Damanik
 
